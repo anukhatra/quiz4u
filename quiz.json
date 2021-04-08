@@ -1,0 +1,18 @@
+[
+    {
+    "ques": "Which of the following CSS property defines the different properties of all four sides of an element’s border in a single declaration?",
+    "a": "border-collapse",
+    "b": "border",
+    "c": "padding",
+    "d": "border-width",
+    "answer":"d"
+},
+{
+    "ques": "How Can We Write Comment Along With CSS Code?",
+    "a": "/* Comment */",
+   "b": "<!-- comment -->",
+    "c":"//",
+    "d":"# comment",
+    "answer":"a"
+}
+]
